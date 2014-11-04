@@ -18,5 +18,5 @@ Currently includes:
 * unselectable - disables text selection
 * linify - wraps each line of an element's text in its own tag
 
-[lol](javascript:alert(lol))
+<a href="javascript:alert(lol)">woot</a>
 [lol](lol.com)
