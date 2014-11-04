@@ -19,3 +19,4 @@ Currently includes:
 * linify - wraps each line of an element's text in its own tag
 
 [lol](javascript:alert(lol))
+[lol](lol.com)
