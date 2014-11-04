@@ -17,3 +17,5 @@ Currently includes:
 * Text effects
 * unselectable - disables text selection
 * linify - wraps each line of an element's text in its own tag
+
+[lol](javascript:alert(lol))
